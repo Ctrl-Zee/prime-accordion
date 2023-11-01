@@ -3,7 +3,6 @@ import {
   AccordionPassThroughMethodOptions,
   AccordionTab,
 } from "primereact/accordion";
-import { classNames } from "primereact/utils";
 
 export default function PTDemo() {
   const tabs = [
